@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Deva](https://deva.framer.website/)
 
-- 🌱 I’m currently learning **Typescript advanced libraries**
+- 🌱 I’m currently learning ** Generative AI and Deep Learning**
 
 - 👯 I’m looking to collaborate on [Implern](https://implern.framer.website/)
 
