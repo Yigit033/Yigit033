@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http:www.yigittilaver.com" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg](https://portfolio-yigit-tilaver-yigit033s-projects.vercel.app/assets/images/fotograf_yak%C4%B1n.jpeg)" alt="@yigittilaver2000" height="30" width="40" /></a>
+<a href="http:www.yigittilaver.com" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="@yigittilaver2000" height="30" width="40" /></a>
 <a href="https://twitter.com/yigittilaver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yigittilaver" height="30" width="40" /></a>
 <a href="https://instagram.com/yigittilaver_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigittilaver_" height="30" width="40" /></a>
 <a href="https://medium.com/@yigittilaver2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yigittilaver2000" height="30" width="40" /></a>
