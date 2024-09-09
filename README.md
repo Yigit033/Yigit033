@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/yigittilaver" target="blank"><img src="https://img.shields.io/twitter/follow/yigittilaver?logo=twitter&style=for-the-badge" alt="yigittilaver" /></a> </p>
 
-- 🌱 I’m currently learning ** Generative AI and Deep Learning**
+- 🌱 I’m currently learning ** Generative AI and Deep Learning, Data Science**
 
-- 👨‍💻 All of my projects are available at [https://yigittilaver.com]([https://yigittilaver.framer.website/](https://yigittilaver.com))
+- 👨‍💻 All of my projects are available at [https://yigittilaver.com](https://yigittilaver.com)
 
 - 📝 I regularly write articles on [https://medium.com/@yigittilaver2000](https://medium.com/@yigittilaver2000)
 
-- 💬 Ask me about **python, generative ai, deep learning, matchine learning, data science etc.**
+- 💬 Ask me about **python, generative AI, deep learning, machine learning, data science, etc.**
 
 - 📫 How to reach me **yigittilaver2000@gmail.com**
 
-- ⚡ Fun fact **I think I have a good sense of humor.**
+- ⚡ Fun fact ** Ithink I have a good sense of humor.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http:www.yigittilaver.com" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="@yigittilaver2000" height="30" width="40" /></a>
+<a href="http:www.yigittilaver.com" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/11576965591711520535-64.svg" alt="yigittilaver" height="30" width="40" /></a>
 <a href="https://twitter.com/yigittilaver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yigittilaver" height="30" width="40" /></a>
 <a href="https://instagram.com/yigittilaver_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigittilaver_" height="30" width="40" /></a>
 <a href="https://medium.com/@yigittilaver2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yigittilaver2000" height="30" width="40" /></a>
