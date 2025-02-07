@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/yigittilaver" target="blank"><img src="https://img.shields.io/twitter/follow/yigittilaver?logo=twitter&style=for-the-badge" alt="yigittilaver" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Science**
+- 🌱 I am enhancing my expertise in Machine Learning, Deep Learning, and Data Science.
 
 - 👨‍💻 All of my projects are available at [http://yigittilaver.com](http://yigittilaver.com)
 
