@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yiğit</h1>
-<h3 align="center">A passionate junior AI Engineer from Türkiye</h3>
+<h1 align="center">Hi 👋, I'm Yiğit Tilaver</h1>
+<h3 align="center">Me: a passionate enthusiast of Artificial Intelligence / Machine Learning / Deep Learning / Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yigit033&label=Profile%20views&color=0e75b6&style=flat" alt="yigit033" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yigittilaver" target="blank"><img src="https://img.shields.io/twitter/follow/yigittilaver?logo=twitter&style=for-the-badge" alt="yigittilaver" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI, Deep Learning, Data Science**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Science**
 
 - 👨‍💻 All of my projects are available at [http://yigittilaver.com](http://yigittilaver.com)
 
