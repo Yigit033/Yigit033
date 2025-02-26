@@ -7,7 +7,7 @@
 
 - 🌱 I am enhancing my expertise in Machine Learning, Deep Learning, and Data Science.
 
-- 👨‍💻 All of my projects are available at [http://yigittilaver.com](http://yigittilaver.com)
+- 👨‍💻 All of my projects are available at [https://yigittilaver.dev/](https://yigittilaver.dev/)
 
 - 📝 I regularly write articles on [https://medium.com/@yigittilaver2000](https://medium.com/@yigittilaver2000)
 
