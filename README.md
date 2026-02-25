@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yiğit Tilaver</h1>
-<h3 align="center">Me: a passionate enthusiast of Artificial Intelligence / Machine Learning / Deep Learning / Data Science.</h3>
+<h3 align="center">A passionate enthusiast of Artificial Intelligence / Machine Learning / Deep Learning / Data Science / Agentic AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yigit033&label=Profile%20views&color=0e75b6&style=flat" alt="yigit033" /> </p>
 
