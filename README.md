@@ -11,11 +11,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@yigittilaver2000](https://medium.com/@yigittilaver2000)
 
-- 💬 Ask me about **python, generative AI, deep learning, machine learning, data science, etc.**
-
 - 📫 How to reach me **yigittilaver2000@gmail.com**
 
-- ⚡ Fun fact **I have a good sense of humor.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
